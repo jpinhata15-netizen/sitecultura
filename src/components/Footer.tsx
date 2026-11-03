@@ -208,7 +208,7 @@ export const Footer: React.FC<FooterProps> = ({ setActiveTab }) => {
         {/* Rodapé Inferior */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-xs text-stone-500 gap-4">
           <p>
-            © 2025 MOSAICO — Ecossistema Digital da Cultura Brasileira. Criado em 2025. Todos os direitos reservados.
+            © 2026 MOSAICO — Ecossistema Digital da Cultura Brasileira. Criado em 2026. Todos os direitos reservados.
           </p>
           <div className="flex items-center gap-2">
             <span>Desenvolvido com carinho para valorização da identidade cultural nacional</span>

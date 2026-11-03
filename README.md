@@ -58,4 +58,4 @@ npm run build
 
 ---
 
-© 2025 MOSAICO — Ecossistema Digital da Cultura Brasileira. Criado em 2025.
+© 2026 MOSAICO — Ecossistema Digital da Cultura Brasileira. Criado em 2026.
